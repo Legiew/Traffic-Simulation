@@ -149,7 +149,7 @@
 			<Shapes>
 				<Road SourceId="1456578467665">
 					<Id>1456578495023</Id>
-					<Name><![CDATA[road2]]></Name>
+					<Name><![CDATA[DorstenerStrOst]]></Name>
 					<X>475</X><Y>220</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -218,7 +218,7 @@
 
 				<RoadJunction>
 					<Id>1456578467665</Id>
-					<Name><![CDATA[intersection]]></Name>
+					<Name><![CDATA[KreuzungRiemkerDorstener]]></Name>
 					<X>410</X><Y>200</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -231,7 +231,7 @@
 			<Shapes>
 				<LaneConnector SourceId="1456578495023" TargetId="1456578489702">
 					<Id>1456578880590</Id>
-					<Name><![CDATA[laneConnector2]]></Name>
+					<Name><![CDATA[Strom9_K4_1]]></Name>
 					<X>470.0502525316942</X><Y>185.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -256,7 +256,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578495023">
 					<Id>1456578880591</Id>
-					<Name><![CDATA[laneConnector3]]></Name>
+					<Name><![CDATA[Strom10_KL2]]></Name>
 					<X>393.03473966853005</X><Y>159.303473966853</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -281,7 +281,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578489702">
 					<Id>1456580373922</Id>
-					<Name><![CDATA[laneConnector7]]></Name>
+					<Name><![CDATA[Strom5_K1_1]]></Name>
 					<X>434</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -309,7 +309,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578489702">
 					<Id>1456580373924</Id>
-					<Name><![CDATA[laneConnector10]]></Name>
+					<Name><![CDATA[Strom5_K1_2]]></Name>
 					<X>420</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -337,7 +337,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578496843">
 					<Id>1456580373927</Id>
-					<Name><![CDATA[laneConnector11]]></Name>
+					<Name><![CDATA[Strom11_12_K2]]></Name>
 					<X>365.17369834265037</X><Y>156.51736983426503</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -365,7 +365,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578496843">
 					<Id>1456580373929</Id>
-					<Name><![CDATA[laneConnector12]]></Name>
+					<Name><![CDATA[Strom11_K2]]></Name>
 					<X>379.1042190055902</X><Y>157.91042190055902</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -393,7 +393,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578495023">
 					<Id>1456580373946</Id>
-					<Name><![CDATA[laneConnector22]]></Name>
+					<Name><![CDATA[Strom5_6_K1]]></Name>
 					<X>434</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -418,7 +418,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578496843">
 					<Id>1456580373953</Id>
-					<Name><![CDATA[laneConnector24]]></Name>
+					<Name><![CDATA[Strom7_KL4_2]]></Name>
 					<X>474.0100505063388</X><Y>213.07035354437184</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -443,7 +443,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578492132">
 					<Id>1456580392828</Id>
-					<Name><![CDATA[laneConnector6]]></Name>
+					<Name><![CDATA[Strom12_K2]]></Name>
 					<X>365.17369834265037</X><Y>156.51736983426503</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -468,7 +468,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578496843">
 					<Id>1456580392831</Id>
-					<Name><![CDATA[laneConnector15]]></Name>
+					<Name><![CDATA[Strom3_KR3_1]]></Name>
 					<X>340</X><Y>253</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -493,7 +493,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578492132">
 					<Id>1456580392833</Id>
-					<Name><![CDATA[laneConnector18]]></Name>
+					<Name><![CDATA[Straßenbahn_ST1]]></Name>
 					<X>392</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -518,7 +518,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578492132">
 					<Id>1456580392835</Id>
-					<Name><![CDATA[laneConnector27]]></Name>
+					<Name><![CDATA[Strom8_K4]]></Name>
 					<X>470.0502525316942</X><Y>185.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -546,7 +546,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578496843">
 					<Id>1456580481295</Id>
-					<Name><![CDATA[laneConnector]]></Name>
+					<Name><![CDATA[Straßenbahn_ST3]]></Name>
 					<X>340</X><Y>197</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -571,7 +571,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578489702">
 					<Id>1456580595433</Id>
-					<Name><![CDATA[laneConnector4]]></Name>
+					<Name><![CDATA[Strom9_K4_2]]></Name>
 					<X>470.0502525316942</X><Y>185.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -596,7 +596,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578496843">
 					<Id>1456580610348</Id>
-					<Name><![CDATA[laneConnector5]]></Name>
+					<Name><![CDATA[Strom7_KL4_1]]></Name>
 					<X>472.0301515190165</X><Y>199.2110606331155</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -621,7 +621,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578492132">
 					<Id>1456580639574</Id>
-					<Name><![CDATA[laneConnector1]]></Name>
+					<Name><![CDATA[Strom4_KL1]]></Name>
 					<X>406</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -646,7 +646,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578496843">
 					<Id>1456580666123</Id>
-					<Name><![CDATA[laneConnector8]]></Name>
+					<Name><![CDATA[Strom3_KR3_2]]></Name>
 					<X>340</X><Y>239</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -671,7 +671,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578495023">
 					<Id>1456580669705</Id>
-					<Name><![CDATA[laneConnector9]]></Name>
+					<Name><![CDATA[Strom2_K3]]></Name>
 					<X>340</X><Y>225</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -699,7 +699,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578489702">
 					<Id>1456580673397</Id>
-					<Name><![CDATA[laneConnector13]]></Name>
+					<Name><![CDATA[Strom1_KL3_1]]></Name>
 					<X>340</X><Y>211</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -724,7 +724,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578489702">
 					<Id>1456580673398</Id>
-					<Name><![CDATA[laneConnector14]]></Name>
+					<Name><![CDATA[Strom1_KL3_2]]></Name>
 					<X>340</X><Y>211</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -753,7 +753,7 @@
 
 				<Road TargetId="1456578467665">
 					<Id>1456578489702</Id>
-					<Name><![CDATA[road]]></Name>
+					<Name><![CDATA[RiemkerStrNord]]></Name>
 					<X>420</X><Y>-10</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -819,7 +819,7 @@
 
 				<Road SourceId="1456578467665">
 					<Id>1456578496843</Id>
-					<Name><![CDATA[road3]]></Name>
+					<Name><![CDATA[RiemkerStrSued]]></Name>
 					<X>385</X><Y>295</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -885,7 +885,7 @@
 
 				<Road TargetId="1456578467665">
 					<Id>1456578492132</Id>
-					<Name><![CDATA[road1]]></Name>
+					<Name><![CDATA[DorstenerStrWest]]></Name>
 					<X>100</X><Y>190</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
