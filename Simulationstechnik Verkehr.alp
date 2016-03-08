@@ -105,44 +105,364 @@
 				<PublicFlag>false</PublicFlag>
 				<PresentationFlag>true</PresentationFlag>
 				<ShowLabel>true</ShowLabel>
-				<Type>JUNCTION_STOP_LINES</Type>
+				<Type>JUNCTION_DIRECTION_LINES</Type>
 				<Junction>1456578467665</Junction>
-				<Line>1456578513804</Line>
-				<Line>1456578542794</Line>
-				<Line>1456578565188</Line>
-				<Line>1456580153260</Line>
+				<Line>1456580373922</Line>
+				<Line>1456580373924</Line>
+				<Line>1456580373927</Line>
+				<Line>1456580373929</Line>
+				<Line>1456580392828</Line>
+				<Line>1456580392831</Line>
+				<Line>1456580392833</Line>
+				<Line>1456580481295</Line>
+				<Line>1456580639574</Line>
+				<Line>1456580666123</Line>
+				<Line>1456580673397</Line>
+				<Line>1456580673398</Line>
+				<Line>1456680516803</Line>
+				<Line>1456680516807</Line>
+				<Line>1456680516809</Line>
+				<Line>1456680516819</Line>
+				<Line>1456680729733</Line>
+				<Line>1456680771970</Line>
+				<Line>1456680812390</Line>
+				<Line>1456828359265</Line>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[10]]></Code>
+					<Code><![CDATA[3]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[1]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
 					<Code><![CDATA[3]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[15]]></Code>
+					<Code><![CDATA[1]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[12]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[4]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
 					<Code><![CDATA[3]]></Code>
 				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[2]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[34]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[2]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[6]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[21]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[1]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[17]]></Code>
+				</Duration>
 				<DefaultState>RED</DefaultState>
-				<DefaultState>YELLOW</DefaultState>
 				<DefaultState>RED</DefaultState>
-				<DefaultState>YELLOW</DefaultState>
-				<State>GREEN</State>
-				<State>YELLOW</State>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>RED</DefaultState>
 				<State>RED</State>
-				<State>YELLOW</State>
 				<State>RED</State>
-				<State>YELLOW</State>
-				<State>GREEN</State>
-				<State>YELLOW</State>
 				<State>RED</State>
-				<State>YELLOW</State>
-				<State>GREEN</State>
-				<State>YELLOW</State>
-				<State>GREEN</State>
-				<State>YELLOW</State>
 				<State>RED</State>
-				<State>YELLOW</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>RED</State>
+				<State>GREEN</State>
 			</TrafficLight>
 			<Connectors>
 				<Connector>
@@ -853,6 +1173,9 @@
 							<ClassName><![CDATA[RoadNetworkDescriptor]]></ClassName>
 							<ItemName><![CDATA[1431616410057]]></ItemName>
 						</GenericParameterSubstituteReference>
+						<GenericParameterSubstituteValue Class="CodeValue">
+							<Code><![CDATA[Car]]></Code>
+						</GenericParameterSubstituteValue>
 					</GenericParameterSubstitute>
 					<Parameters>
 						<Parameter>
@@ -981,9 +1304,6 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[arrivalType]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[self.INTERARRIVAL_TIME]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[rate]]></Name>
@@ -1695,9 +2015,6 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[arrivalType]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[self.INTERARRIVAL_TIME]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[rate]]></Name>
@@ -4746,7 +5063,7 @@
 			<Shapes>
 				<RoadStopline>
 					<Id>1456578513804</Id>
-					<Name><![CDATA[stopLine]]></Name>
+					<Name><![CDATA[stopLineDorstenerOst]]></Name>
 					<X>0</X><Y>0</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -4846,7 +5163,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578496843">
 					<Id>1456580373927</Id>
-					<Name><![CDATA[Strom11_12_K2]]></Name>
+					<Name><![CDATA[Strom11_K2_2]]></Name>
 					<X>445.17369834265037</X><Y>206.51736983426503</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -4875,7 +5192,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578496843">
 					<Id>1456580373929</Id>
-					<Name><![CDATA[Strom11_K2]]></Name>
+					<Name><![CDATA[Strom11_K2_1]]></Name>
 					<X>459.1042190055902</X><Y>207.91042190055902</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5112,7 +5429,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578489702">
 					<Id>1456680516803</Id>
-					<Name><![CDATA[laneConnector1]]></Name>
+					<Name><![CDATA[Strom9K4_2]]></Name>
 					<X>550.0502525316941</X><Y>235.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5138,7 +5455,7 @@
 
 				<LaneConnector SourceId="1456578489702" TargetId="1456578495023">
 					<Id>1456680516807</Id>
-					<Name><![CDATA[laneConnector3]]></Name>
+					<Name><![CDATA[Strom10_KL2]]></Name>
 					<X>473.03473966853005</X><Y>209.303473966853</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5164,7 +5481,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578492132">
 					<Id>1456680516809</Id>
-					<Name><![CDATA[laneConnector4]]></Name>
+					<Name><![CDATA[Strom8_K4]]></Name>
 					<X>550.0502525316941</X><Y>235.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5193,7 +5510,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578496843">
 					<Id>1456680516819</Id>
-					<Name><![CDATA[laneConnector9]]></Name>
+					<Name><![CDATA[Strom7_KL4_1]]></Name>
 					<X>554.0100505063389</X><Y>263.0703535443718</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5219,7 +5536,7 @@
 
 				<LaneConnector SourceId="1456578492132" TargetId="1456578495023">
 					<Id>1456680729733</Id>
-					<Name><![CDATA[laneConnector]]></Name>
+					<Name><![CDATA[Strom2_K3]]></Name>
 					<X>420</X><Y>275</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5247,7 +5564,7 @@
 
 				<LaneConnector SourceId="1456578496843" TargetId="1456578495023">
 					<Id>1456680771970</Id>
-					<Name><![CDATA[laneConnector2]]></Name>
+					<Name><![CDATA[Strom6_K1]]></Name>
 					<X>514</X><Y>345</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5272,7 +5589,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578489702">
 					<Id>1456680812390</Id>
-					<Name><![CDATA[laneConnector6]]></Name>
+					<Name><![CDATA[Strom9_K4_1]]></Name>
 					<X>550.0502525316941</X><Y>235.35176772185918</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5297,7 +5614,7 @@
 
 				<LaneConnector SourceId="1456578495023" TargetId="1456578496843">
 					<Id>1456828359265</Id>
-					<Name><![CDATA[laneConnector5]]></Name>
+					<Name><![CDATA[Strom7_KL4_2]]></Name>
 					<X>552.0301515190165</X><Y>249.2110606331155</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5363,7 +5680,7 @@
 			<Shapes>
 				<RoadStopline>
 					<Id>1456578542794</Id>
-					<Name><![CDATA[stopLine1]]></Name>
+					<Name><![CDATA[stopLineRiemkerNord]]></Name>
 					<X>0</X><Y>0</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5429,7 +5746,7 @@
 			<Shapes>
 				<RoadStopline>
 					<Id>1456578565188</Id>
-					<Name><![CDATA[stopLine3]]></Name>
+					<Name><![CDATA[stopLineRiemkerSued]]></Name>
 					<X>0</X><Y>0</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
@@ -5495,7 +5812,7 @@
 			<Shapes>
 				<RoadStopline>
 					<Id>1456580153260</Id>
-					<Name><![CDATA[stopLine2]]></Name>
+					<Name><![CDATA[stopLineDorstenerWest]]></Name>
 					<X>0</X><Y>0</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
