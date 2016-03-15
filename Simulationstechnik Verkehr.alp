@@ -83,7 +83,7 @@
 			<ScaleRuler>
 				<Id>1455970407246</Id>
 				<Name><![CDATA[scale]]></Name>
-				<X>530</X><Y>360</Y>
+				<X>800</X><Y>400</Y>
 				<PublicFlag>false</PublicFlag>
 				<PresentationFlag>false</PresentationFlag>
 				<ShowLabel>false</ShowLabel>
@@ -5569,7 +5569,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872158057</Id>
 					<Name><![CDATA[plot]]></Name>
-					<X>80</X><Y>960</Y>
+					<X>50</X><Y>555</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -5635,7 +5635,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872519181</Id>
 					<Name><![CDATA[plot1]]></Name>
-					<X>-510</X><Y>570</Y>
+					<X>820</X><Y>0</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -5685,7 +5685,7 @@ car.lastStopTime = time();]]></Code>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
 					<DatasetExpression>  
-						<Title><![CDATA[Average speed, km/h]]></Title>
+						<Title><![CDATA[Average speed [km/h]]]></Title>
 					<Expression><![CDATA[my_dataset]]></Expression>
 					<Color>-14774017</Color>
 					<Expression2><![CDATA[speedDS.getYMean()]]></Expression2>
@@ -5701,7 +5701,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872519192</Id>
 					<Name><![CDATA[plot2]]></Name>
-					<X>80</X><Y>570</Y>
+					<X>50</X><Y>0</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -5751,7 +5751,7 @@ car.lastStopTime = time();]]></Code>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
 					<DatasetExpression>  
-						<Title><![CDATA[Average time in system, seconds]]></Title>
+						<Title><![CDATA[Average time in system [s]]]></Title>
 					<Expression><![CDATA[my_dataset]]></Expression>
 					<Color>-14774017</Color>
 					<Expression2><![CDATA[timeInSystemDS.getYMean()]]></Expression2>
@@ -5767,7 +5767,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872537701</Id>
 					<Name><![CDATA[plot3]]></Name>
-					<X>80</X><Y>760</Y>
+					<X>820</X><Y>555</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -5833,7 +5833,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457905500641</Id>
 					<Name><![CDATA[plot4]]></Name>
-					<X>-510</X><Y>770</Y>
+					<X>50</X><Y>210</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
