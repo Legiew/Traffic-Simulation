@@ -5811,7 +5811,7 @@ car.lastStopTime = time();]]></Code>
 				<Text>
 					<Id>1458058162730</Id>
 					<Name><![CDATA[textQSV]]></Name>
-					<X>1020</X><Y>540</Y>
+					<X>890</X><Y>560</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -5835,7 +5835,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872158057</Id>
 					<Name><![CDATA[plot]]></Name>
-					<X>80</X><Y>580</Y>
+					<X>100</X><Y>580</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -6033,7 +6033,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1457872537701</Id>
 					<Name><![CDATA[plot3]]></Name>
-					<X>60</X><Y>820</Y>
+					<X>100</X><Y>780</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -6165,7 +6165,7 @@ car.lastStopTime = time();]]></Code>
     			<TimePlot>
 					<Id>1458057885255</Id>
 					<Name><![CDATA[plot5]]></Name>
-					<X>840</X><Y>820</Y>
+					<X>840</X><Y>780</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
